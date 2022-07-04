@@ -1,0 +1,1 @@
+Leia duas notas de um determinado aluno e depois, calcule a média com base nessas mesmas notas.
